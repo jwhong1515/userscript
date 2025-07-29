@@ -6,6 +6,8 @@
 // @author       Your Name
 // @match        https://*.fmkorea.com/*
 // @grant        none
+// @updateURL    https://raw.githubusercontent.com/jwhong1515/userscript/master/fmkorea_content_block.js
+// @downloadURL  https://raw.githubusercontent.com/jwhong1515/userscript/master/fmkorea_content_block.js
 // ==/UserScript==
 
 (function() {
